@@ -1,0 +1,6 @@
+{
+    "__extends__": "inception.android.common",
+    "__notes__": [
+        "This is a general configuration that is non specific to a certain device"
+      ]
+}
